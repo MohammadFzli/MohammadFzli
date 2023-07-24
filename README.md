@@ -1,5 +1,5 @@
 ### Hello and Welcome 👋, I'm Mohammad Fazeli
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### About Me
 
 - 🌱 I'm Currently Growing My Programming Knowledge
@@ -17,7 +17,7 @@
 <br />
 <br />
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 💻 Links to Courses & Tutorials:
 [<img align="left" target="_blank" alt="HTML" width="26px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />]
 [<img align="left" target="_blank" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
