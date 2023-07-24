@@ -4,8 +4,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 - 👨🏽‍🎓 Student of Shiraz University
 - 🌱 I'm Currently Growing My Programming Knowledge
-- 📚 I'm constantly learning new skills and _striving for progress_
-- 🏆 Goal: To Be the person I Thought About In The Past
+- 📚 I'm constantly learning New Skills And Striving For Progress
+- 🏆 Goal: To Be The Person I Thought About In The Past
 - ⚡ Motto: _Learn Correctly, Time Is Not Important_
 
 <br />
