@@ -8,10 +8,6 @@
 - 🏆 Goal: To Be the person I Thought About In The Past
 - ⚡ Motto: _Learn Correctly, Time Is Not Important_
 
-
-
-Soon...
-
 <br />
 <br />
 
@@ -35,7 +31,7 @@ Soon...
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/Mohammad-Fazeli"><img src="https://img.shields.io/badge/mohammad-fazeli-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mohammadfazeli.developer@gmail.com"><img src="https://img.shields.io/badge/mohammadfazeli.developer@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/M0hammad.Fazeli"><img src="https://img.shields.io/badge/M0hammad.Fazeli-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
