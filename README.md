@@ -31,7 +31,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/Mohammad-Fazeli/"><img src="https://img.shields.io/badge/Mohammad-Fazeli?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/Mohammad-Fazeli/"><img src="https://img.shields.io/badge/Mohammad-Fazeli-?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mohammadfazeli.developer@gmail.com"><img src="https://img.shields.io/badge/mohammadfazeli.developer@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/M0hammad.Fazeli"><img src="https://img.shields.io/badge/M0hammad.Fazeli-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
