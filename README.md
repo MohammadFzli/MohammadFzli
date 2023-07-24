@@ -16,7 +16,7 @@ Soon...
 <br />
 
 
-### 💻 Links to Courses & Tutorials:
+### 💻 My Skills:
 
 
 <img align="left" target="_blank" alt="JavaScript" width="26px" src="https://w7.pngwing.com/pngs/281/822/png-transparent-visual-studio-code-computer-icons-microsoft-visual-studio-coding-blue-angle-text.png" />
