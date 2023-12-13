@@ -20,7 +20,7 @@
 <img align="left" target="_blank" alt="Git" width="26px" src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" />
 <img align="left" target="_blank" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" target="_blank" alt="TypeScript" width="26px" src="https://logospng.org/download/typescript/typescript-256.png" />
-<img align="left" target="_blank" alt="TypeScript" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-LY7HVA1mpMQ8srCFGAhPhOUufdGhVv_3XVscg9Cdh1U0Zp4zXs00pKp26-a3a_Ae-U&usqp=CAU" />
+<img align="left" target="_blank" alt="TypeScript" width="26px" src="https://banner2.cleanpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg"/>
 <img align="left" target="_blank" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"/>
 
 
