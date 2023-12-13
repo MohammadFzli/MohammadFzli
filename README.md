@@ -2,7 +2,6 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 👨🏽‍🎓 Student of Shiraz University
 - 🌱 I'm Currently Growing My Programming Knowledge
 - 📚 I'm constantly learning New Skills And Striving For Progress
 - 🏆 Goal: To Be The Person I Thought About In The Past
