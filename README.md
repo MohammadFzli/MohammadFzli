@@ -19,7 +19,7 @@
 <img align="left" target="_blank" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" target="_blank" alt="Git" width="26px" src="https://avatars.githubusercontent.com/u/18133?s=48&v=4" />
 <img align="left" target="_blank" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" target="_blank" alt="TypeScript" width="28px" src="https://logospng.org/download/typescript/typescript-256.png" />
+<img align="left" target="_blank" alt="TypeScript" width="30px" src="https://logospng.org/download/typescript/typescript-256.png" />
 <img align="left" target="_blank" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png"/>
 
 
